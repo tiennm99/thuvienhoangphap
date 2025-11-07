@@ -1,6 +1,2 @@
-github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.2 h1:MUy48hWGsmL9bo3KpEKXIcNE8ajo6RuMmR7PnICLRDo=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.2/go.mod h1:0YQtVvRLCzZOpPmbVNk7WDx8t19/QfRTFO+pwyqQNk8=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240429194209-e7beed231a8c h1:JeLdqCCnZzZS6cbyESolqoX4xO//C8l2HJSjDWkkTRs=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240429194209-e7beed231a8c/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240429194209-e7beed231a8c h1:UIQJrdLBAy/lXuptadAcbdVjR3MIcihzStvTaCmGq28=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240429194209-e7beed231a8c/go.mod h1:+qBbqXbKT7M2nOeHQa5OrRXwQKpEx1RXpMGirHbT7HU=
+github.com/alex-shpak/hugo-book v0.0.0-20240518104843-e104a11f42fb h1:cP93DhBd5vM1Mt2qOFzhOUvyribG6yuKz6G4nmgyQrw=
+github.com/alex-shpak/hugo-book v0.0.0-20240518104843-e104a11f42fb/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
