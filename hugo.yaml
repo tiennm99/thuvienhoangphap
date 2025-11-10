@@ -35,7 +35,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/thuvienhoangphap/thuvienhoangphap.github.io"
+      url: "https://github.com/tiennm99"
       weight: 10
     - name: "Facebook"
       url: "https://facebook.com/miti99"
@@ -70,7 +70,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/thuvienhoangphap/thuvienhoangphap.github.io
+  BookRepo: https://github.com/tiennm99/thuvienhoangphap
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -113,4 +113,3 @@ params:
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   # BookTranslatedOnly: false
-
